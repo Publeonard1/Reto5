@@ -108,12 +108,15 @@ public class MenuCombo extends javax.swing.JFrame {
                 v1.generarTabla();
                 break;
             case 1:
-                
+                VentanaR1 v2 = new VentanaR1();
+                v2.setVisible(true);
+                v2.generarTabla();
                 break;
             case 2:
-                
-                break;
-            
+                VentanaR1 v3 = new VentanaR1();
+                v3.setVisible(true);
+                v3.generarTabla();
+                break;           
         } 
     }//GEN-LAST:event_btnMostrarActionPerformed
 

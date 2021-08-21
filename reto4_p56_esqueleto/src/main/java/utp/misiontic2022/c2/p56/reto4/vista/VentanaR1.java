@@ -22,6 +22,7 @@ public class VentanaR1 extends javax.swing.JFrame {
     
     private DefaultTableModel modeloTabla;
     public static final ControladorRequerimientos controlador = new ControladorRequerimientos();
+    
     /**
      * Creates new form VentanaR1
      */
